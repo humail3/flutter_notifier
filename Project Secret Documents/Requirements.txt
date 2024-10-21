@@ -1,0 +1,3 @@
+functionality: when the text on this link "https://api.notrufnoe.at/c9/status.php" changes 
+then the app will provide me a notification of changing, App should check after each 5 minutes 
+that if their is any text changing on this link site.
